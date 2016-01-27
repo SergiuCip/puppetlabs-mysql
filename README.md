@@ -5,15 +5,15 @@
 1. [Overview](#overview)
 2. [Module Description - What the module does and why it is useful](#module-description)
 3. [Backwards compatibility information](#backwards-compatibility)
-3. [Setup - The basics of getting started with mysql](#setup)
+4. [Setup - The basics of getting started with mysql](#setup)
     * [Beginning with mysql](#beginning-with-mysql)
-4. [Usage - Configuration options and additional functionality](#usage)
+5. [Usage - Configuration options and additional functionality](#usage)
     * [Customizing Server Options](#customizing-server-options)
     * [Creating a Database](#creating-a-database)
     * [Custom Configuration](#custom-configuration)
-5. [Reference - An under-the-hood peek at what the module is doing and how](#reference)
-5. [Limitations - OS compatibility, etc.](#limitations)
-6. [Development - Guide for contributing to the module](#development)
+6. [Reference - An under-the-hood peek at what the module is doing and how](#reference)
+7. [Limitations - OS compatibility, etc.](#limitations)
+8. [Development - Guide for contributing to the module](#development)
 
 ##Overview
 
